@@ -2,7 +2,7 @@
 title: OiClass PU2TI 327 嘤嘤的珂朵莉树题解
 date: 2024-10-21 21:00:00
 categories:
-- Solution
+- 题解
 ---
 
 ### 题意

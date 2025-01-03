@@ -2,7 +2,7 @@
 title: GDKOI 2024 油寄
 date: 2024-01-08 14:26:13
 categories:
-- History in Time
+- 记录
 ---
 
 ### Day 0

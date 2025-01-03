@@ -2,7 +2,7 @@
 title: 2023 CSP-J/S 第二轮 油寄
 date: 2023-11-22 16:41:20
 categories:
-- History in Time
+- 记录
 ---
 
 赛前两周停课集训，然而我第二周发烧在家。

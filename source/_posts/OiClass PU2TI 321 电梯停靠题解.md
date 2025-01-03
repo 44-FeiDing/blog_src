@@ -2,7 +2,7 @@
 title: OiClass PU2TI 321 电梯停靠题解
 date: 2024-10-21 21:30:00
 categories:
-- Solution
+- 题解
 ---
 
 ### 题意
